@@ -1,0 +1,37 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<form>
+			<table>
+			<tr>
+				<td colspan="4"><td>
+			</tr>
+			<tr>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+		</tr>
+		<tr>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+		</tr>
+		<tr>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+		</tr>
+		<tr>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+			<td><input type="button"></input></td>
+		</tr>
+			</table>
+		</form>
+	</body>
+ml>	
